@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#container{
+    text-align: center;
+}
+
+#up{
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#down{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
